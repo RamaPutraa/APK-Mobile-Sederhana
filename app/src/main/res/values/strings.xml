@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas1</string>
+    <string name="hallo">Selamat kamu berhasil berpindah halaman ke Hallo Dicoding</string>
+    <string name="back">Back</string>
+</resources>
